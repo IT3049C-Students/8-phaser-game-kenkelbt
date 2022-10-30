@@ -1,4 +1,4 @@
-# Assignment: ?
+# Assignment: Flappy Bird
 
 ## Checklist:
 - [x] fill out the self evaluation and Reflection
