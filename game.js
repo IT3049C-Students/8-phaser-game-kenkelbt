@@ -58,7 +58,7 @@ window.onload = function() {
 	}
      
 	function flap(){
-		bird.body.velocity.y = birdFlapPower;	
+		bird.body.velocity.y = -birdFlapPower;	
 	}
 	
 	function addPipe(){
